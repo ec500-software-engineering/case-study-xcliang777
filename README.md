@@ -1,4 +1,3 @@
-# case-study-xcliang777
-case-study-xcliang777 created by GitHub Classroom
+# case-study-xcliang777： Stellarium
 
-Please read the PDF.
+All in the PDF file.
